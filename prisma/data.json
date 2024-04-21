@@ -1,0 +1,12 @@
+[
+  {
+    "product_name": "Product A",
+    "product_price": 50,
+    "product_unit": "Bottle"
+  },
+  {
+    "product_name": "Product B",
+    "product_price": 100,
+    "product_unit": "Pack"
+  }
+]
