@@ -22,7 +22,7 @@ async function bootstrap() {
   app.use(limiter);
 
   const config = new DocumentBuilder()
-    .setTitle('base API')
+    .setTitle('base-api')
     .setDescription('base API document')
     .setVersion('0.1')
     .addBearerAuth()
